@@ -39,8 +39,6 @@ Visual Studio has a built in feedback mechanism via the "Report a Problem..." to
 
 Logs will be automatically attached.
 
-![Image of Report a Problem...](docs/media/vs-feedback.png) 
-
 > **Tip:** You may be able to save yourself some time by simply up-voting an existing problem report.  You may search for existing issue in the Visual Studio Feedback tool but be aware your problem may be related to multiple clients and therefore is logged in the GitHub [issue repository](https://github.com/Microsoft/live-share/issues).
 
 Note that after your problem report is filed, it may be converted to a [GitHub issue](https://github.com/Microsoft/live-share/issues) for future tracking if it applies multiple clients or turns out to be a feature request. In this event, a link to the corresponding GitHub issue number will be referenced in comments on your raised problem report. 
@@ -103,14 +101,6 @@ The more information you can provide, the more likely someone will be successful
 * A code snippet that demonstrates the issue or a link to a code repository we can easily pull down onto our machine to recreate the issue. 
 
 Don't feel bad if we can't reproduce the issue and ask for more information!
-
-## Contributing to documentation
-
-You may contribute to documentation by submitting pull requests to this repository. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
-
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
 
 ## Discussion Etiquette
 
